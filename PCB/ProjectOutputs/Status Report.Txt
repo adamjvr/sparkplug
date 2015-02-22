@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MIC24085 Breakout.PrjPCB]
+   Generated File[MIC24085 Breakout.TXT]
+   Generated File[MIC24085 Breakout.LDP]
+   Generated File[MIC24085 Breakout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:30:48 AM On 8/25/2014

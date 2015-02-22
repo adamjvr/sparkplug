@@ -1,0 +1,4 @@
+Added Component: Designator=5v Out(CON-PHEONIX-508-Alt)
+Added Pin To Net: NetName=5VCC Pin=5v Out-1
+Added Pin To Net: NetName=GND Pin=5v Out-2
+Added Member To Class: ClassName=MIC24085 Member=Component 5v Out Pheonix Contact

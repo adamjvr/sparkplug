@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VIN Pin=EN-2
+Removed Member From Class: ClassName=MIC24085 Member=EN
+Change Component Designator: OldDesignator=5V 3A OUT NewDesignator=5v Out
+Change Component Designator: OldDesignator=12V IN NewDesignator=12v Input
+Added Component: Designator=R2(J1-0603)
+Added Pin To Net: NetName=5VCC Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-9
+Added Net: Name=NetR2_2
+Added Member To Class: ClassName=MIC24085 Member=Component R2 0603

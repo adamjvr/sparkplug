@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=5VDC 3A NewDesignator=5v Out
+Change Component Designator: OldDesignator=12VDC NewDesignator=12v Input
+Added Component: Designator=D1(SK33A - SOD123)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=SW Pin=D1-2
+Added Member To Class: ClassName=MIC24085 Member=Component D1 PMEG1030EH_EJ
